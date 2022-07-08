@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+
+    android:layout_marginTop="10dp"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="221dp"
+        android:background="@drawable/botoncircuit3"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imagenMemoria"
+            android:layout_width="wrap_content"
+            android:layout_height="106dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="140dp"
+            android:layout_marginLeft="147dp"
+            android:layout_marginTop="1dp"
+            android:layout_marginEnd="140dp"
+            android:layout_marginBottom="114dp"
+            app:srcCompat="@drawable/avatalogin" />
+
+        <TextView
+            android:id="@+id/nombreMemoria"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="134dp"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="106dp"
+            android:layout_marginEnd="130dp"
+
+            android:layout_marginBottom="85dp"
+            android:text="Memoria"
+            android:textColor="#6089A8"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/inforMemoria"
+            android:layout_width="391dp"
+            android:layout_height="82dp"
+            android:layout_alignTop="@+id/imagenMemoria"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="6dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="133dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="#F5FFFFFF"
+            android:text="Descripción:"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/imgPrecio"
+            android:layout_width="wrap_content"
+            android:layout_height="78dp"
+            android:layout_alignBottom="@+id/nombreMemoria"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="38dp"
+            android:layout_marginEnd="281dp"
+            android:layout_marginBottom="10dp"
+            app:srcCompat="@drawable/precio2" />
+
+        <TextView
+            android:id="@+id/inforPrecioMemoria"
+            android:layout_width="wrap_content"
+            android:layout_height="33dp"
+            android:layout_alignStart="@+id/imgPrecio"
+            android:layout_alignTop="@+id/imgPrecio"
+            android:layout_alignEnd="@+id/imgPrecio"
+            android:layout_alignBottom="@+id/imgPrecio"
+            android:layout_marginStart="-4dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="-7dp"
+            android:layout_marginBottom="25dp"
+            android:text="Precio"
+            android:textAlignment="center"
+            android:textColor="#FAF8F2"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>

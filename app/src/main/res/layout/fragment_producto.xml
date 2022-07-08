@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#72C8C8C8"
+        android:padding="16dp">
+
+
+        <ImageView
+            android:id="@+id/imagenPrincipal"
+            android:layout_width="98dp"
+            android:layout_height="95dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="7dp"
+            android:layout_marginRight="3dp"
+            app:srcCompat="@drawable/amdrizen5" />
+
+        <TextView
+            android:id="@+id/Titulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/imagenPrincipal"
+            android:text="AMD Ryzen 5"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/Descrip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Titulo"
+            android:layout_toRightOf="@+id/imagenPrincipal"
+            android:text="Puntuación:" />
+
+        <RatingBar
+            android:id="@+id/ratingOficial"
+            android:layout_width="277dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/Titulo"
+            android:layout_alignBottom="@+id/imagenPrincipal"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="-7dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginBottom="15dp"
+            android:layout_toEndOf="@+id/imagenPrincipal"
+
+            android:numStars="5"
+            android:rating="3" />
+
+    </RelativeLayout>
+
+
+
+    <TextView
+        android:id="@+id/content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_margin"
+        android:textAppearance="?attr/textAppearanceListItem" />
+</LinearLayout>

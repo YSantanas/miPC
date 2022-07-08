@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">miPC</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Registro</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="welcome">"Bienvenido !"</string>
+
+    <string name="login_failed">"Login Fallido"</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Login -->
+    <string name="edt_nombre_usuario">Nombre de Usuario</string>
+    <string name="edt_contrasenha">Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_buscar">Buscar</string>
+
+    <!-- Errores -->
+    <string name="btn_registro">Registro</string>
+    <string name="err_nombre_usuario">Falta Nombre de Usuario</string>
+    <string name="err_contrasenha">Falta Contraseña</string>
+
+    <!--Registro -->
+    <string name="edt_correo">Correo Electrónico</string>
+    <string name="edt_telefono">Teléfono</string>
+    <string name="edt_confirmar_contrasenha">Confirmar Contraseña</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="btn_ingreso">¿Ya tienes una cuenta?</string>
+    <string name="edt_apellidos">Apellidos</string>
+    <!-- Errores -->
+    <string name="err_correo">Falta Correo</string>
+    <string name="err_correo_no_valido">No es un Correo</string>
+    <string name="err_telefono">Falta Número Telefónico</string>
+    <string name="err_confirmar_contrasenha">Las constraseñas no coinciden</string>
+
+    <!-- Activity -->
+    <string name="edt_act_disco">Discos Duros</string>
+    <string name="edt_act_gabinete">Gabinetes</string>
+    <string name="edt_act_lap">Laptop</string>
+    <string name="edt_act_memoria">Memorias</string>
+    <string name="edt_act_placa">Placas</string>
+    <string name="edt_act_procesador">Procesadores</string>
+
+
+    <!-- Menu -->
+    <string name="menu_principal">Principal</string>
+    <string name="menu_servicios">Servicios</string>
+    <string name="menu_contacto">Contacto</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Top Ventas</string>
+    <string name="menu_slideshow">OTROS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_inicio">InicioActivity</string>
+    <string name="title_activity_seleccion">SeleccionActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hola fragmento 1</string>
+    <string name="hello_second_fragment">Hola fragmento 2</string>
+    <string name="title_activity_disco">DiscoActivity</string>
+    <string name="title_activity_gabinete">GabineteActivity</string>
+    <string name="title_activity_lap">LapActivity</string>
+    <string name="title_activity_memoria">MemoriaActivity</string>
+    <string name="title_activity_placa">PlacaActivity</string>
+    <string name="title_activity_procesador">ProcesadorActivity</string>
+    <string name="title_activity_laptop">LaptopActivity</string>
+
+
+</resources>

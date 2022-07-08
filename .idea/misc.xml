@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/drawable/ic_launcher_background.xml" value="0.107" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.107" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.107" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/activity_bienvenida.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/activity_catalogo.xml" value="0.264" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/activity_disco.xml" value="0.264" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/activity_gabinete.xml" value="0.2" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/activity_inicio.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/activity_lap.xml" value="0.23220973782771537" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/activity_laptop.xml" value="0.16" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/activity_login2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/activity_login3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/activity_memoria.xml" value="0.2" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/activity_menu.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/activity_placa.xml" value="0.1771756122980719" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/activity_procesador.xml" value="0.1771756122980719" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/activity_registro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/activity_seleccion.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/app_bar_inicio.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/app_bar_menu.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/content_gabinete.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/content_inicio.xml" value="0.1" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/content_laptop2.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/content_memoria.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/content_menu.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/content_placa.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/content_procesador.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/content_seleccion.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_bloque.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_busca.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_disco.xml" value="0.264" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_disco_list.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_first3.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_gabinete.xml" value="0.264" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_gabinete_list.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_gallery.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_inicio_disco.xml" value="0.25" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_inicio_gabinete.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_inicio_lap.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_inicio_memoria.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_inicio_placa.xml" value="0.1" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_inicio_procesador.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_inicio_producto.xml" value="0.121875" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_iniciolap.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_iniciolap_list.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_lap.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_lap_list.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_memoria.xml" value="0.1" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_memoria_list.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_oferta.xml" value="0.2" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_placa.xml" value="0.2" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_placa_list.xml" value="0.2359375" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_principal.xml" value="0.264" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_procesador.xml" value="0.12222222222222222" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_procesador_list.xml" value="0.12222222222222222" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_producto.xml" value="0.2734646581691773" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_producto_list.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_productos.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_servicios.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/fragment_slideshow.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/mlista1.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/nav_header_inicio.xml" value="0.264" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/layout/nav_header_menu.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/menu/activity_main_drawer.xml" value="0.22564102564102564" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/menu/activity_menu_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/menu/inicio.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/menu/menu.xml" value="0.22564102564102564" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1415" />
+        <entry key="..\:/Users/lexsa/Desktop/Clases/UNICA/Desarrollo de ANDROID 11 a 13h/Proyecto/miPC/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/listaProducto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".listaProducto.inicioProductoFragment">
+
+    <androidx.recyclerview.widget.RecyclerView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/listaDisco"
+        android:name="com.curso.mipc.listaProducto.productoFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        app:layoutManager="LinearLayoutManager"
+        tools:context=".listaProducto.productoFragment"
+        tools:listitem="@layout/fragment_producto" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
